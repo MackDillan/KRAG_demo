@@ -1,0 +1,5 @@
+langchain
+langchain-neo4j
+langchain-community
+llama-cpp-python
+langchain_neo4j
